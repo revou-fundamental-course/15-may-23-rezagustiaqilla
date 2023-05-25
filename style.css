@@ -1,0 +1,25 @@
+.border {
+    text-align: center;
+    border-radius: 10px;
+    border-style: solid;
+    width: 500px;
+    margin: auto;
+    border-color: rgb(37, 188, 248);
+}
+
+.hasil {
+    padding-bottom:0;
+    margin-top: 50px;
+}
+
+button {
+    margin-top: 35px;
+    background-color: rgb(37, 188, 248);
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+}
+
+.reset{
+    background-color: rgb(150, 3, 3);
+    color: white;
+}
